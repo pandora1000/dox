@@ -1,9 +1,9 @@
 # dox
-Complete backup of my ~/dox directory.
-/lib/ is a personal archive of books in the .pdf and .epub formats.
-/lang/ contains formatted .tex documents in Chinese.
-/ex/ contains LaTeX examples (nothing special) just for explaining syntax.
-/sch/ is just my backup of school documents, nothing special to see.
+*Complete backup of my ~/dox directory.
+*/lib/ is a personal archive of books in the .pdf and .epub formats.
+*/lang/ contains formatted .tex documents in Chinese.
+*/ex/ contains LaTeX examples (nothing special) just for explaining syntax.
+*/sch/ is just my backup of school documents, nothing special to see.
 
 # Library
 Library of books, some based, some school
