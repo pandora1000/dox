@@ -11,10 +11,18 @@ The only pdf/epub/cbz/djvu/ps reader that matters is <a href="https://pwmt.org/p
     <a href="./lib/TheArtOfTheDeal.epub">Art of The Deal</a>
 
 <a href="https://james-herbert.co.uk/about-james-herbert.html"><i>James Herbert</i></a>
+    <a href="./"> </a>
+    <a href="./"> </a>
+    <a href="./"> </a>
+    <a href="./"> </a>
+    <a href="./"> </a>
 
 <a href="https://www.breteastonellis.com/about"><i>Bret Easton Ellis</i></a>
     <a href="./lib/AmericanPsycho.pdf">American Psycho</a>
 
+    <a href="./"> </a>
+    <a href="./"> </a>
+    <a href="./"> </a>
 <a href="https://basedshaman.com/"><i>Based Shaman</i></a>
     <a href="./lib/Lornography.pdf">Lorne Chat Log</a>
 
