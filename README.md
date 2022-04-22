@@ -10,7 +10,7 @@ Library of books, some based, some school
 
 <pre><a href="https://www.donaldjtrump.com/">Donald Trump</a> 
    You should.
-      <a href="http://bible.com/111/luk.16.19-31.niv">Art of The Deal</a>
+      <a href="./lib/TheArtOfTheDeal.epub">Art of The Deal</a>
       <a href="http://bible.com/111/mat.25.31-46.niv">It really, really sucks.</a>
       <a href="http://bible.com/111/rev.20.11-15.niv">Suckage Maximus.</a>
 
