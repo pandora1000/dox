@@ -6,8 +6,7 @@
 * /sch/ is just my backup of school documents, nothing special to see.
 
 # Library
-Library of books, some based, some school
-
+The only pdf/epub/cbz/djvu/ps reader that matters is <a href="https://pwmt.org/projects/zathura/">zathura</a>
 <pre><a href="https://www.donaldjtrump.com/">Donald Trump</a> 
    You should.
       <a href="./lib/TheArtOfTheDeal.epub">Art of The Deal</a>
