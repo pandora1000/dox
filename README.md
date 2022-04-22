@@ -1,13 +1,16 @@
 # dox
-Backup of all documents, school related, books, LaTeX template etc..
-Only useful thing is probably my LaTeX temps for chinese, which highlight good use of zhuyin.
+Complete backup of my ~/dox directory.
+/lib/ is a personal archive of books in the .pdf and .epub formats.
+/lang/ contains formatted .tex documents in Chinese.
+/ex/ contains LaTeX examples (nothing special) just for explaining syntax.
+/sch/ is just my backup of school documents, nothing special to see.
 
 # Library
 Library of books, some based, some school
 
-<pre><a href="https://www.bible.com/bible/111/ISA.55.12-13">Are you following God's plan for your life?</a> 
+<pre><a href="https://www.donaldjtrump.com/">Donald Trump</a> 
    You should.
-      <a href="http://bible.com/111/luk.16.19-31.niv">Your plan sucks.</a>
+      <a href="http://bible.com/111/luk.16.19-31.niv">Art of The Deal</a>
       <a href="http://bible.com/111/mat.25.31-46.niv">It really, really sucks.</a>
       <a href="http://bible.com/111/rev.20.11-15.niv">Suckage Maximus.</a>
 
