@@ -20,5 +20,7 @@ long-term assests out of the economy.
 
 Event study - unexpected announcement of QE.
 QE has been disappointing and inflation stubbornly below objectives,
-
+https://www.obserwatorfinansowy.pl/in-english/macroeconomics/british-monetary-policy-since-the-financial-crisis/
 QE has failed in Japan.
+
+Inflation may have knock-on effects. E.g. the cost of living can further increase inequalites
