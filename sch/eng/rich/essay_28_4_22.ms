@@ -1,3 +1,4 @@
+.fam cm
 .TL
 Examine the ways in which Richard and Bullingbrooke are
 contrasted in the opening acts of the play
