@@ -90,6 +90,7 @@ verse, first character to speak camly.
 .B "Setting":
 Council chamber in Venice, seat of reason, Othello has powerful
 supporters=senators, the Duke protects him from prejudice and deception.
+tis a pageant to keep us in false gaze
 
 .NH
 Act 1 Scene 3
@@ -99,3 +100,9 @@ o Rude am I in my speech / And little blessed with the soft phrase of peace
  = skilled in all things that link to battle and war – but claims to be a less
 
 Iago, i hate the moor reinstatement of his villainy
+
+Aristotle - tragic protagonist must possess magnificence of character and greatness of soul - so audience must pity him Othello conforms to this notion
+
+polite address - Rude am i in my speech
+"Little of this great world can I speak/ More than pertains to feats
+of broil and battle"
